@@ -60,3 +60,7 @@ export PATH=/opt/apache-maven-3.5.3/bin:$PATH
 `mvn spring-boot:run`
 
 Podczas pierwszego uruchomienia zostaną pobrane wszystkie zależności, co może zająć chwilę czasu. Na konsoli powinien pojawić się m.in. komunikat `Started SpringWorkshopApplication`.
+
+---
+
+W razie pytań (szczególnie dotyczących przygotowania środowiska do warsztatów) można zadawać pytania na: akademia@bms.com.pl
