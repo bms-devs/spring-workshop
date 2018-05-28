@@ -10,3 +10,4 @@ public class SpringWorkshopApplication {
 		SpringApplication.run(SpringWorkshopApplication.class, args);
 	}
 }
+
