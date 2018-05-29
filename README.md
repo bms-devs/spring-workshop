@@ -64,3 +64,9 @@ Podczas pierwszego uruchomienia zostaną pobrane wszystkie zależności, co moż
 ---
 
 W razie pytań (szczególnie dotyczących przygotowania środowiska do warsztatów) można zadawać pytania na: akademia@bms.com.pl
+
+---
+
+## Prezentacja z warsztatów
+
+http://bit.ly/warsztatybms
