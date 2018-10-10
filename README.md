@@ -20,7 +20,7 @@ Po zainstalowaniu wyżej wymienionych narzędzi ustaw PATH dla JDK i [Mavena](ht
 Ustawienie JDK Path (wpisz ścieżkę wybraną podczas instalacji):
 
 ```
-setx JAVA_HOME "C:\Program Files (x86)\Java\jdk1.8.0_172" 
+setx JAVA_HOME "C:\Program Files (x86)\Java\jdk1.8.0_181" 
 setx PATH "%PATH%;%JAVA_HOME%\bin";
 ```
 
@@ -35,7 +35,7 @@ setx PATH "%PATH%;C:\apache-maven-3.5.3\bin";
 Ustawienie JDK Path (wpisz ścieżkę wybraną podczas instalacji):
 
 ```
-export JAVA_HOME=/usr/local/jdk1.8.0_17/
+export JAVA_HOME=/usr/local/jdk1.8.0_181/
 export PATH=$JAVA_HOME/bin:$PATH
 ```
 
@@ -67,6 +67,3 @@ W razie pytań (szczególnie dotyczących przygotowania środowiska do warsztat�
 
 ---
 
-## Prezentacja z warsztatów
-
-http://bit.ly/warsztatybms
